@@ -1,14 +1,6 @@
 # Voronoi-Diagram-Simulation
  
-The purpose of this project is to build the Voronoi cell that corresponds to a point at the origin using a set of points that are evenly distributed over a plane. As part of this procedure, we will make points, determine distances, locate the Voronoi cell, and finally, visualise the data.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Feel free to submit issues or pull requests if you have suggestions or improvements.
+The purpose of this project is to build the Voronoi cell that corresponds to a point at the origin using a set of points that are evenly distributed over a plane.
 
 ## References
 
