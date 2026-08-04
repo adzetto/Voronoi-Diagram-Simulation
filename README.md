@@ -1,4 +1,12 @@
 # Voronoi-Diagram-Simulation
+
+<!-- badges -->
+![TeX](https://img.shields.io/badge/TeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+![last commit](https://img.shields.io/github/last-commit/adzetto/Voronoi-Diagram-Simulation?style=flat-square&color=informational) ![repo size](https://img.shields.io/github/repo-size/adzetto/Voronoi-Diagram-Simulation?style=flat-square&color=informational) ![top language](https://img.shields.io/github/languages/top/adzetto/Voronoi-Diagram-Simulation?style=flat-square) ![language count](https://img.shields.io/github/languages/count/adzetto/Voronoi-Diagram-Simulation?style=flat-square) ![license](https://img.shields.io/github/license/adzetto/Voronoi-Diagram-Simulation?style=flat-square&color=informational)
+
  
 The purpose of this project is to build the Voronoi cell that corresponds to a point at the origin using a set of points that are evenly distributed over a plane.
 
